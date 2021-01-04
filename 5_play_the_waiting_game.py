@@ -1,4 +1,3 @@
-import keyboard
 import random
 from datetime import datetime
 
